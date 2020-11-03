@@ -1,0 +1,17 @@
+Summary of the Study
+
+This is a good opportunity to learn and repeat the algorithm theories and practices systematically.
+
+Instead of solving the problems in the most basic ways, which costs much more time and efforts, we could try different data structures or algorithms to enhance our application.
+
+We could pick a suitable data structure, which fits the best for our scenarios. We could use a hash map, which is the most time efficient, if we want to query an element with the least time.
+
+With the dynamic programming, we are able to construct solutions with all kinds of possibilities, till the solution is found.
+
+BFS and DFS provide the transversing ways to look for the solution.
+
+When we solve a problem in leetcode, do go to the international sites and read the highly voted solutions and explanations.
+
+Imitate the solutions from others and repeat them at least five times, until you master it deeply in your brain.
+
+Join the community of geek time, and study with others for the whole lifetime.
